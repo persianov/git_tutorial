@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args){
-        stringPrepare("hello2");
+        stringPrepare("hello5555");
     }
 
     public static void stringPrepare(String toPrint){
